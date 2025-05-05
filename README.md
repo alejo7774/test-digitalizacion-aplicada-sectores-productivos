@@ -19,7 +19,7 @@ Este proyecto es un **test interactivo en línea** diseñado para la preparació
 
 Puedes acceder al test directamente desde:
 
-👉 [https://TU-USUARIO.github.io/test-transformacion-digital](https://TU-USUARIO.github.io/test-transformacion-digital)
+👉 https://alejo7774.github.io/test-digitalizacion-aplicada-sectores-productivos/
 
 > ⚠️ Sustituye `TU-USUARIO` por tu nombre de usuario real en GitHub.
 
